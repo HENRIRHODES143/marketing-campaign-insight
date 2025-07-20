@@ -51,7 +51,3 @@ Filtres :
 **Auteur**
 Rotimy Henri RHODES
 Projet personnel réalisé dans le cadre de ma formation
-
----
-
-Tu peux maintenant coller ce contenu dans la section "Edit README.md" sur GitHub. Si tu veux une capture d’écran à ajouter dans ton dépôt, je peux aussi t’aider à l’extraire.
